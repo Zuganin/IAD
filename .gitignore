@@ -651,3 +651,7 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/vs,jupyternotebooks,python,pycharm
+
+*.DS_Store
+*.ipynb_checkpoints
+*.idea
